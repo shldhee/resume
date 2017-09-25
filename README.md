@@ -87,7 +87,9 @@ Period | Company | Team
 * **제목 : ES6 자율형 스터디**
 * 기간 : 2017. 02 .13 ~ 06. 28 (매주 월요일)
 * 교재 : ECMAScript 6 (두고두고 보는 자바스크립트 표준 레퍼런스)
+
 <img src="./images/es6.jpg" width="200" />
+
 * [github - 브랜치(duckhee)](https://github.com/shldhee/es6-study/tree/duckhee)
 * 정리 : 추후 사용하게 될 React에 도움을 준 스터디입니다. ES6 전체적으로 한번 훑고 기본적인 것들을 숙지했습니다.
 
@@ -96,7 +98,9 @@ Period | Company | Team
 * **제목 : 자바스크립트 자료구조와 알고리즘 자율형 스터디**
 * 기간 : 2017. 03. 18 ~ 06. 11 (매주 일요일)
 * 교재 : 자바스크립트 자료구조와 알고리즘
+
 <img src="./images/jsa.jpg" width="200" />
+
 * [github - shldhee folder](https://github.com/shldhee/bookStudy2)
 
 * 정리 : 자바스크립트를 이용해 자료구조와 알고리즘을 공부했습니다. 비전공자로서 부족했던 부분들을 채울 수 있었고 여태까지 공부했던 것들이랑 다소 다른 느낌을 받았습니다. 이 계기로 업무 및 개발에 대한 시각이 바뀌고 흥미가 생긴 스터디였습니다.
@@ -114,7 +118,9 @@ Period | Company | Team
 * **제목 : 자바스크립트 코딩 기법과 핵심 패턴 자율형 스터디**
 * 기간 : 2017. 06. 18 ~ 09. 17 (매주 일요일)
 * 교재 : 자바스크립트 코딩 기법과 핵심 패턴
+
 <img src="./images/jsp.jpg" width="200" />
+
 * [github정리](https://github.com/shldhee/javascript-pattern-study)
 * 정리 : 자바스크립트를 실무에서 효율적으로 사용하려고 스터디를 시작했습니다. 책이 오래전에 출판했고 개정판이 나오지 않아 현업에서 사용하지 않은 것들을 알려줘서 아쉬움이 많은 책이었습니다.
 ---
