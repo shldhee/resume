@@ -49,15 +49,15 @@ Period | Company | Team
 * 웹접근성 마크 갱신 작업
 
 ---
- 유지보수 업무, 프로젝트 구축 못했음, 수정 및 보완 작업, 따라서 스터디를 꾸준하게 함. 스터디를 하면 할 수록 부족함을 느끼게 되었음. 과도한 스터디를 함에 따라 지침
+
+**유지보수 업무, 프로젝트 구축 못했음, 수정 및 보완 작업, 따라서 스터디를 꾸준하게 함. 스터디를 하면 할 수록 부족함을 느끼게 되었음. 과도한 스터디를 함에 따라 지침**
+
 ---
 
 ## 스터디
 
+* 제목 : 초급 프론트엔드 개발 1기 과정 강의형 스터디 (하코사 - 김수호)
 * 기간 : 2016. 12. 11 ~ 02. 26 (매주 일요일 총 9주)
-* 내용 : 강의형 스터디 : 초급 프론트엔드 개발 1기 과정(하코사 - 김수호)
-* 정리 : 아래와 같은 커리큘럽으로 진행했습니다. HTML, CSS, jQuery 정도만 아는 수준에서 이 강의를 듣고 Front-End에 대한 첫 지식을 쌓을 수 있었습니다. 완벽하게 습득하지는 못했지만 Front-End 개발에 흐름을 알 수 있어 매우 유익하고 제가 공부할 방향성을 정할 수 있었습니다.
-
 * 커리큘럼
   - 기초 자바스크립트(ES3)
   - 기초 자바스크립트(ES6+)
@@ -73,34 +73,40 @@ Period | Company | Team
   ~~- Open API(네이버 지도, 날씨 등)~~
   ~~- Native API(GPS 등)~~
   ~~- Heroku 배포~~
+* 정리 : 아래와 같은 커리큘럽으로 진행했습니다. HTML, CSS, jQuery 정도만 아는 수준에서 이 강의를 듣고 Front-End에 대한 첫 지식을 쌓을 수 있었습니다. 완벽하게 습득하지는 못했지만 Front-End 개발에 흐름을 알 수 있어 매우 유익하고 제가 공부할 방향성을 정할 수 있었습니다.
 
+---
+
+* 제목 : ES6 자율형 스터디
 * 기간 : 2017. 02 .13 ~ 06. 28 (매주 월요일)
-* 내용 : 자율형 스터디 : ECMAScript 6 (두고두고 보는 자바스크립트 표준 레퍼런스)
-* 정리 : ECMAScript 6 (두고두고 보는 자바스크립트 표준 레퍼런스)
-* 교재 : ![ECMAScript6](./images/es6.jpg)
+* 교재 : ECMAScript 6 (두고두고 보는 자바스크립트 표준 레퍼런스)
+<img src="./images/es6.jpg" width="200" />
+* [github정리](https://github.com/shldhee/es6-study/tree/duckhee)
+* 정리 :
 
-github : https://github.com/shldhee/es6-study/tree/duckhee
+---
 
-2017. 03. 18 ~ 06. 11 (매주 일요일)
-자율형 스터디
+* 제목 : 자바스크립트 자료구조와 알고리즘 자율형 스터디
+* 기간 : 2017. 03. 18 ~ 06. 11 (매주 일요일)
+* 교재 : 자바스크립트 자료구조와 알고리즘
+<img src="./images/jsa.jpg" width="200" />
+* [github정리](https://github.com/shldhee/bookStudy2)
+* 정리 :
 
-자바스크립트 자료구조와 알고리즘
+---
 
-교재 : http://book.naver.com/bookdb/book_detail.nhn?bid=9755482
+* 제목 : ReactJS 기초부터 실전까지 - 5기 강의형 스터디 (하코사 - 고무곰)
+* 기간 : 2017. 04. 08 ~ 06. 03 (매주 토요일 총 10주)
+* [github정리](https://github.com/shldhee/reactStudy)
+* 정리 : 아래와 같은 커리큘럽으로 진행했습니다. HTML, CSS, jQuery 정도만 아는 수준에서 이 강의를 듣고 Front-End에 대한 첫 지식을 쌓을 수 있었습니다. 완벽하게 습득하지는 못했지만 Front-End 개발에 흐름을 알 수 있어 매우 유익하고 제가 공부할 방향성을 정할 수 있었습니다.
 
-github : https://github.com/shldhee/bookStudy2
+---
 
-2017. 06. 18 ~ 09. 17 (매주 일요일)
-자율형 스터디
+* 제목 : 자바스크립트 코딩 기법과 핵심 패턴 자율형 스터디
+* 기간 : 2017. 06. 18 ~ 09. 17 (매주 일요일)
+* 교재 : 자바스크립트 코딩 기법과 핵심 패턴
+<img src="./images/jsp.jpg" width="200" />
+* [github정리](https://github.com/shldhee/javascript-pattern-study)
+* 정리 :
 
-자바스크립트 코딩 기법과 핵심 패턴
-
-교재 :
-http://book.naver.com/bookdb/book_detail.nhn?bid=6763510
-
-github : https://github.com/shldhee/javascript-pattern-study
-
-2017. 04. 08 ~ 06. 03 (매주 토요일 총 10주)
-강의형 스터디 : ReactJS 기초부터 실전까지 - 5기(하코사 - 고무곰)
-
-github : https://github.com/shldhee/reactStudy
+---
