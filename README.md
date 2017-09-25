@@ -1,10 +1,3 @@
-이력서 참고
-http://www.haeyounglee.com/post/120469497464/facebook-recruiter-resume-tips#.WcNJLchJZhE
-
-https://blog.outsider.ne.kr/1234
-
-https://github.com/yevgnenll/resume
-
 # 이덕희 (Lee Duck Hee)
 
 Front-End Developer로 지원합니다.
