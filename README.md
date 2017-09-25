@@ -49,7 +49,7 @@ Period | Company | Team
 * 웹접근성 마크 갱신 작업
 
 ---
-** 유지보수 업무, 프로젝트 구축 못했음, 수정 및 보완 작업, 따라서 스터디를 꾸준하게 함. 스터디를 하면 할 수록 부족함을 느끼게 되었음. 과도한 스터디를 함에 따라 지침  **
+ 유지보수 업무, 프로젝트 구축 못했음, 수정 및 보완 작업, 따라서 스터디를 꾸준하게 함. 스터디를 하면 할 수록 부족함을 느끼게 되었음. 과도한 스터디를 함에 따라 지침
 ---
 
 ## 스터디
@@ -70,18 +70,14 @@ Period | Company | Team
   - Handlebars
   - Jasmine
   - Git
-  ~~- Open API(네이버 지도, 날씨 등)
-    - Native API(GPS 등)
-  - Heroku 배포 -->~~
+  ~~- Open API(네이버 지도, 날씨 등)~~
+  ~~- Native API(GPS 등)~~
+  ~~- Heroku 배포~~
 
 * 기간 : 2017. 02 .13 ~ 06. 28 (매주 월요일)
 * 내용 : 자율형 스터디 : ECMAScript 6 (두고두고 보는 자바스크립트 표준 레퍼런스)
-* 정리 :
-
-ECMAScript 6 (두고두고 보는 자바스크립트 표준 레퍼런스)
-
-교재 :
-http://book.naver.com/bookdb/book_detail.nhn?bid=11556385
+* 정리 : ECMAScript 6 (두고두고 보는 자바스크립트 표준 레퍼런스)
+* 교재 : ![ECMAScript6](./images/es6.jpg)
 
 github : https://github.com/shldhee/es6-study/tree/duckhee
 
