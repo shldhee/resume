@@ -33,7 +33,7 @@ certification | 컴퓨터그래픽스운용기능사, 컴퓨터활용능력 2급
 ## 학력정보
 
 Level | School Name | Major | Start | End | 최종학력
---|--|--|--|--|--|--|
+--|--|--|--|--|--|--
 High school | Sunduck High school | Natural sciences  | 2006.02  | 2011.02  | 졸업
 University| Korea National Open University(방송대) | Information statistics(정보통계학)  | 2014.09  | 2016.09  | 졸업
 
