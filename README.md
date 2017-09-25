@@ -2,7 +2,7 @@
 
 Front-End Developer로 지원합니다.
 
-[![e-mail](https://img.shields.io/badge/email-beatdance%40naver.com-blue.svg)](mailto:beatdance@naver.com) [![blog](https://img.shields.io/badge/blog-shldhee.github.io-lightgrey.svg)](http://shldhee.github.io/) [![portfolio](https://img.shields.io/badge/portfolio-bbaki.ivryo.net-brightgreen.svg)](http://bbaki.ivyro.net/)
+[![e-mail](https://img.shields.io/badge/email-beatdance%40naver.com-blue.svg)](mailto:beatdance@naver.com) [![blog](https://img.shields.io/badge/blog-shldhee.github.io-lightgrey.svg)](http://shldhee.github.io/) [![portfolio](https://img.shields.io/badge/portfolio-bbaki.ivryo.net-brightgreen.svg)](http://bbaki.ivyro.net/bbaki)
 
 ## tech stack
 
