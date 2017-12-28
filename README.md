@@ -1,6 +1,6 @@
 # 이덕희 (Lee Duck Hee)
 
-Front-End Developer 로 지원합니다.
+Front-End Developer 지원합니다.
 
 [![e-mail](https://img.shields.io/badge/email-beatdance%40naver.com-blue.svg)](mailto:beatdance@naver.com)
 [![blog](https://img.shields.io/badge/blog-shldhee.github.io-lightgrey.svg)](http://shldhee.github.io/)
@@ -29,8 +29,8 @@ Front-End Developer 로 지원합니다.
 
 | 등급     | 학교명              | 전공         | 입학    | 졸업    | 최종학력 |
 | -------- | ------------------- | ------------ | ------- | ------- | -------- |
-| 고등학교 | 선덕고등학교        | 이과         | 2004.02 | 2006.03 | 졸업     |
-| 대학     | 신한대학교 (신흥대) | 호텔조리학과 | 2006.02 | 2011.02 | 졸업     |  |  |  |  |
+| 고등학교 | 선덕고등학교        | 이과         | 2004.03 | 2006.02 | 졸업     |
+| 대학     | 신한대학교 (신흥대) | 호텔조리학과 | 2006.03 | 2011.02 | 졸업     |  |  |  |  |
 | 대학     | 방송통신대학교      | 정보통계학   | 2014.09 | 2016.09 | 졸업     |
 
 ## 직장이력
@@ -41,16 +41,26 @@ Front-End Developer 로 지원합니다.
 
 ## 업무 및 프로젝트
 
-* 대학교(40 여개) 및 관공서 홈페이지 유지보수
+* 나사렛대학교 (http://www.kornu.ac.kr)
+  - 유지보수 및 고도화 사업
 
-  * html, css, javscript 사용
-  * Layout 깨짐 수정
-  * 간단한 Photoshop, Text 수정
+* 강원도 교육청 (http://www.gwe.go.kr)
+  - 프로젝트 및 고도화 사업
 
-* 웹접근성 마크 갱신 작업
-  * 인천장애인콜택시 (2016.1)
-  * 연암대학교(2017.3)
-  * 이화여자대학교 게시판( 퍼블리싱) 작업(2017.09)
+* 연암대학교 웹접근성 갱신 (https://www.yonam.ac.kr/)
+  - 유지보수 및 고도화 사업
+  - 웹 접근성 인증 마크 획득
+
+* 인천 장애인 콜택시 웹접근성 갱신 (http://www.intis.or.kr/)
+  - 유지보수 및 고도화 사업
+  - 웹 접근성 인증 마크 획득
+
+* 고려대학교 (https://korea.ac.kr)
+  - 유지보수 및 고도화 사업
+  - 웹 접근성 인증 마크 획득
+
+* 숭의여자대학교
+  - 유지보수 및 고도화사업
 
 ---
 
