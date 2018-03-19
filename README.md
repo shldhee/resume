@@ -8,12 +8,13 @@ Front-End Developer 지원합니다.
 
 ## tech stack
 
-| classification | stack                           |
+| classification | stack(a litte)                           |
 | -------------- | ------------------------------- |
-| language       | javascript(es6), html, markdown |
+| language       | javascript(es6), html, markdown,  (java, nodejs)|
 | framework      | react                           |
 | business tool  | slack                           |
 | tools          | atom, vscode, editplus          |
+| DB          | (mysql, mongodb)          |   |   |
 
 ## 신상정보
 
@@ -23,7 +24,7 @@ Front-End Developer 지원합니다.
 | Mobile        | 010-4909-7980                                  |
 | birth         | 1987.08.12                                     |
 | e-mail        | beatdance@naver.com                            |
-| certification | 컴퓨터그래픽스운용기능사 , 컴퓨터활용능력 2 급 |
+| certification | 컴퓨터그래픽스운용기능사 , 컴퓨터활용능력 2 급, 정보처리기사 필기 |
 
 ## 학력정보
 
@@ -61,6 +62,8 @@ Front-End Developer 지원합니다.
 
 * 숭의여자대학교
   - 유지보수 및 고도화사업
+
+* 40여개 사이트 운영 업무
 
 ---
 
